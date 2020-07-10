@@ -1,0 +1,20 @@
+// Body
+$body-bg: #f8fafc;
+
+// Typography
+$heading-font-family: 'Montserrat', sans-serif;
+
+.v-application {
+   	.display-2 { // To pin point specific classes of some components
+       font-family: $heading-font-family !important;
+	}
+	.display-1 { // To pin point specific classes of some components
+		font-family: $heading-font-family !important;
+	 }
+	 .headline { // To pin point specific classes of some components
+		font-family: $heading-font-family !important;
+	 }
+	 .title { // To pin point specific classes of some components
+		font-family: $heading-font-family !important;
+	 }
+ }
